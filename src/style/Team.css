@@ -1,0 +1,11 @@
+div.block, div.col, div.row, div.maj, div.col-maj {
+    text-align: center !important;
+}
+
+#correct {
+    color: green;
+}
+
+#incorrect {
+    color: red;
+}

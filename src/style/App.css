@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,300;1,400&display=swap');
+@import url('https://unpkg.com/blocks.css/dist/blocks.min.css');
+
+.App {
+  text-align: center !important;
+  background-color: #FFE409;
+}
+
+h1, h2, h3, h4, p {
+  font-family:  'Roboto Mono';
+}
+
+div.col, div.row {
+  text-align: center !important;
+}
