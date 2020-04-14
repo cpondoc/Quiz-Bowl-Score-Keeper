@@ -1,3 +1,3 @@
 # Quiz Bowl Score Keeper
 
-Project to help jumpstart experience with react.
+Project to help jumpstart experience with React.
